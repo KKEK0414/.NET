@@ -1,0 +1,7 @@
+C:\Users\3-c\source\repos\ex6\ex6\bin\Debug\ex6.exe.config
+C:\Users\3-c\source\repos\ex6\ex6\bin\Debug\ex6.exe
+C:\Users\3-c\source\repos\ex6\ex6\bin\Debug\ex6.pdb
+C:\Users\3-c\source\repos\ex6\ex6\obj\Debug\ex6.csproj.AssemblyReference.cache
+C:\Users\3-c\source\repos\ex6\ex6\obj\Debug\ex6.csproj.CoreCompileInputs.cache
+C:\Users\3-c\source\repos\ex6\ex6\obj\Debug\ex6.exe
+C:\Users\3-c\source\repos\ex6\ex6\obj\Debug\ex6.pdb

@@ -1,0 +1,14 @@
+C:\Users\3-c\source\repos\exp4\exp4\bin\Debug\exp4.exe.config
+C:\Users\3-c\source\repos\exp4\exp4\bin\Debug\exp4.exe
+C:\Users\3-c\source\repos\exp4\exp4\bin\Debug\exp4.pdb
+C:\Users\3-c\source\repos\exp4\exp4\obj\Debug\exp4.csproj.AssemblyReference.cache
+C:\Users\3-c\source\repos\exp4\exp4\obj\Debug\exp4.Form1.resources
+C:\Users\3-c\source\repos\exp4\exp4\obj\Debug\exp4.Properties.Resources.resources
+C:\Users\3-c\source\repos\exp4\exp4\obj\Debug\exp4.csproj.GenerateResource.cache
+C:\Users\3-c\source\repos\exp4\exp4\obj\Debug\exp4.csproj.CoreCompileInputs.cache
+C:\Users\3-c\source\repos\exp4\exp4\obj\Debug\exp4.exe
+C:\Users\3-c\source\repos\exp4\exp4\obj\Debug\exp4.pdb
+C:\Users\3-c\source\repos\exp4\exp4\bin\Debug\exp4.exe.manifest
+C:\Users\3-c\source\repos\exp4\exp4\bin\Debug\exp4.application
+C:\Users\3-c\source\repos\exp4\exp4\obj\Debug\exp4.exe.manifest
+C:\Users\3-c\source\repos\exp4\exp4\obj\Debug\exp4.application

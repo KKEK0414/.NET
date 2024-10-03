@@ -1,0 +1,7 @@
+C:\Users\3-c\source\repos\exp8\exp8\obj\Debug\exp8.csproj.AssemblyReference.cache
+C:\Users\3-c\source\repos\exp8\exp8\obj\Debug\exp8.csproj.CoreCompileInputs.cache
+C:\Users\3-c\source\repos\exp8\exp8\bin\Debug\exp8.exe.config
+C:\Users\3-c\source\repos\exp8\exp8\bin\Debug\exp8.exe
+C:\Users\3-c\source\repos\exp8\exp8\bin\Debug\exp8.pdb
+C:\Users\3-c\source\repos\exp8\exp8\obj\Debug\exp8.exe
+C:\Users\3-c\source\repos\exp8\exp8\obj\Debug\exp8.pdb

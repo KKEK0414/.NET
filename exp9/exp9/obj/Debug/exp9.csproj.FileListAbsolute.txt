@@ -1,0 +1,10 @@
+C:\Users\3-c\source\repos\exp9\exp9\obj\Debug\exp9.csproj.AssemblyReference.cache
+C:\Users\3-c\source\repos\exp9\exp9\obj\Debug\exp9.Form1.resources
+C:\Users\3-c\source\repos\exp9\exp9\obj\Debug\exp9.Properties.Resources.resources
+C:\Users\3-c\source\repos\exp9\exp9\obj\Debug\exp9.csproj.GenerateResource.cache
+C:\Users\3-c\source\repos\exp9\exp9\obj\Debug\exp9.csproj.CoreCompileInputs.cache
+C:\Users\3-c\source\repos\exp9\exp9\bin\Debug\exp9.exe.config
+C:\Users\3-c\source\repos\exp9\exp9\bin\Debug\exp9.exe
+C:\Users\3-c\source\repos\exp9\exp9\bin\Debug\exp9.pdb
+C:\Users\3-c\source\repos\exp9\exp9\obj\Debug\exp9.exe
+C:\Users\3-c\source\repos\exp9\exp9\obj\Debug\exp9.pdb
